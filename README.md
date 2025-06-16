@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Chatpet Songbanpot</h1>
-<h3 align="center">Full Stack Developer | Java • Kotlin • Spring Boot • React</h3>
+<h3 align="center">Full Stack Developer | Java • Spring Boot </h3>
 
 ---
 
