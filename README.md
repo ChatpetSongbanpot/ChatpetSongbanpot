@@ -33,8 +33,7 @@ JUnit • Postman • IntelliJ IDEA • VSCode
 ### 📬 Contact Me
 
 - 📧 Email: [chatpet.sbp@gmail.com](mailto:chatpet.sbp@gmail.com)  
-- 📱 Line: impriaw  
-- 🌐 Portfolio / Resume: *upon request*
+- 📱 Line: impriaw
 
 ---
 
